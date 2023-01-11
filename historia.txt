@@ -4,3 +4,4 @@ Moisés Martínez tiene 39 años, casi 40 en febrero del 2023. Nació en Iguala 
 
 Hoy hablaremos de su historia. Estudio la licenciatura en Administración , pero ahora quiere ser analista de datos.
 
+Hoy esta estudiando Git y GitHub en Platzi.
